@@ -2,13 +2,14 @@ import { useState } from 'react'
 import './App.css'
 import Portada from './Portada'
 import Encabezado from './Encabezado'
+import Footer from './Footer'
 
 function App() {
   return (
     <>
-      <Footer/>
-      <Portada/>
       <Encabezado/>
+      <Portada/>
+      <Footer/>
     </>
   )
 }
