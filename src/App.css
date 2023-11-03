@@ -5,4 +5,11 @@ body {
 .color_menu {
   color: whitesmoke;
   font-weight: bold;
+  background-color: black;
+}
+
+.color_footer{
+  color: rgb(19, 41, 34);
+  font-weight: bold;
+  font-style:inherit;
 }
