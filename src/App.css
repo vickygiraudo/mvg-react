@@ -6,11 +6,24 @@ body {
   color: whitesmoke;
   font-weight: bold;
   background-color: black;
+  font-family: 'Arvo', serif;
+  font-family: 'Jost', sans-serif;
 }
 
 .color_footer{
-  color: rgb(19, 41, 34);
+  color: rgb(244, 248, 217);
   font-weight: bold;
   font-style:inherit;
+  font-family: 'Arvo', serif;
+  font-family: 'Jost', sans-serif;
 }
 
+.saludo{
+  color: azure;
+  text-align: center;
+  text-shadow: blanchedalmond;
+  font-family: 'Arvo', serif;
+  font-family: 'Jost', sans-serif;
+  font-weight: bold;
+
+}
