@@ -4,7 +4,7 @@ const Encabezado = () => {
     return(
         <div className="container-fluid my-3">
             <div className="row">
-               <div className="col-4 img-fluid"><img src="img/logo2blanco.PNG" alt="logo mvg" width={300}/></div>
+               <div className="col-3 img-fluid"><img src="img/logo2blanco.PNG" alt="logo mvg" width={300}/></div>
                
                <nav className="navbar navbar-expand-lg  col-4 color_menu">
                    <div className="barra container-fluid color_menu">
@@ -37,12 +37,22 @@ const Encabezado = () => {
                         </div>
                     </div>
                 </nav>
-                <div className="col-4 d-flex align-items-center text-left">
-                    <a href=""><img src="img/instagramlogo.jpg" alt="logo instagram" width={40} /></a>
-                    <a href=""><img src="img/maillogo.jpg" alt="mail logo" width={40}/></a>
-                    <a href=""><img src="img/whatsapplogo.jpg" alt="mail logo" width={40}/></a>
+
+                <div className="col-3 d-flex align-items-center text-">
+                    <a href="#"><img src="img/carritoblanco.jpg" alt="imágen de carrito" width={60}/></a>
+                </div>
+
+                <div className="col-2 d-flex align-items-center text-left text-end">
+                    <div className="row">
+                       <a href=""><img src="img/instagramlogo.jpg" alt="logo instagram" width={40} /></a>
+                       <a href=""><img src="img/maillogo.jpg" alt="mail logo" width={40}/></a>
+                       <a href=""><img src="img/whatsapplogo.jpg" alt="mail logo" width={40}/></a>
+                    </div>
+                   
                     
                 </div>
+                
+
             </div>
         </div>     
     )

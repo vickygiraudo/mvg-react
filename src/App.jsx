@@ -2,6 +2,7 @@ import { useState } from 'react'
 import './App.css'
 import Portada from './Portada'
 import Encabezado from './Encabezado'
+import Galeria from './Galeria'
 import Footer from './Footer'
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
     <>
       <Encabezado/>
       <Portada/>
+      <Galeria/>
       <Footer/>
     </>
   )
