@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "nombre": "Flamenco en Mar chiquita forma corazón",
+      "descripcion": "Foto del flamenco solo en Mar chiquita",
+      "precio": 20,
+      "foto": ""
+    },
+    {
+      "id": 2,
+      "nombre": "Producto 2",
+      "descripcion": "Descripción del producto 2.",
+      "precio": 39.99,
+      "foto": "url_foto_2.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Producto 3",
+        "descripcion": "Descripción del producto 2.",
+        "precio": 39.99,
+        "foto": "url_foto_2.jpg"
+      },
+      {
+        "id": 4,
+        "nombre": "Producto 4",
+        "descripcion": "Descripción del producto 2.",
+        "precio": 39.99,
+        "foto": "url_foto_2.jpg"
+      },
+      {
+        "id": 5,
+        "nombre": "Producto 5",
+        "descripcion": "Descripción del producto 2.",
+        "precio": 39.99,
+        "foto": "url_foto_2.jpg"
+      },
+      {
+        "id": 6,
+        "nombre": "Producto 6",
+        "descripcion": "Descripción del producto 2.",
+        "precio": 39.99,
+        "foto": "url_foto_2.jpg"
+      }
+    
+  ]
