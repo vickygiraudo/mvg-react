@@ -28,6 +28,18 @@ body {
 
 }
 
+.titulogalerias {
+  color: azure;
+  text-align: center;
+  text-shadow: blanchedalmond;
+  font-family: 'Arvo', serif;
+  font-family: 'Jost', sans-serif;
+  font-weight: bold;
+
+}
+
+
+
 /*Estilos del botón del Carrito*/
 .botonCarrito{
   display: flex;

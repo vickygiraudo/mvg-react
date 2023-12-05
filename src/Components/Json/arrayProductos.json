@@ -1,45 +1,47 @@
+
 [
     {
       "id": 1,
       "nombre": "Flamenco en Mar chiquita forma corazón",
-      "descripcion": "Foto del flamenco solo en Mar chiquita",
       "precio": 20,
-      "foto": ""
+      "img": "/assets/flacorazon.jpg ",
+      "categoria":  "fauna"
+      
     },
     {
       "id": 2,
-      "nombre": "Producto 2",
-      "descripcion": "Descripción del producto 2.",
+      "nombre": "Flameco en Catamarca",
       "precio": 39.99,
-      "foto": "url_foto_2.jpg"
+      "img": "/assets/flacatasololindo.jpg",
+      "categoria":  "fauna"
     },
     {
         "id": 3,
-        "nombre": "Producto 3",
-        "descripcion": "Descripción del producto 2.",
+        "nombre": "Árboles salados Mar Chiquita ",
         "precio": 39.99,
-        "foto": "url_foto_2.jpg"
+        "img": "/assets/marchiquita.jpg",
+        "categoria":  "paisajes"
       },
       {
         "id": 4,
-        "nombre": "Producto 4",
-        "descripcion": "Descripción del producto 2.",
+        "nombre": "Paisaje Catamarca ruta de los Seismiles",
         "precio": 39.99,
-        "foto": "url_foto_2.jpg"
+        "img": "/assets/llamaypaisaje.jpg",
+        "categoria":  "paisajes"
       },
       {
         "id": 5,
-        "nombre": "Producto 5",
-        "descripcion": "Descripción del producto 2.",
+        "nombre": "Madre e hijo España",
         "precio": 39.99,
-        "foto": "url_foto_2.jpg"
+        "img": "/assets/retratomadreehijo.jpg",
+        "categoria":  "retratos"
       },
       {
         "id": 6,
-        "nombre": "Producto 6",
-        "descripcion": "Descripción del producto 2.",
+        "nombre": "Mirada",
         "precio": 39.99,
-        "foto": "url_foto_2.jpg"
+        "img": "/assets/miradakandy.JPG",
+        "categoria":  "retratos"
       }
     
   ]

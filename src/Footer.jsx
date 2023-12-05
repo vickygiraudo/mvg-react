@@ -3,9 +3,9 @@ const Footer = () => {
         <div className="container-fluid">
             <div className="row my-5 ">
                
-               <div className="col-4 text-center"><a href=""><img src="img/instagramlogo.jpg" alt="logo instagram" width={40} /></a></div> 
-               <div className="col-4 text-center"><a href=""><img src="img/maillogo.jpg" alt="mail logo" width={40}/></a></div>
-               <div className="col-4 text-center"><a href=""><img src="img/whatsapplogo.jpg" alt="mail logo" width={40}/></a></div>
+               <div className="col-4 text-center"><a href="/instagram"><img src="img/instagramlogo.jpg" alt="logo instagram" width={40} /></a></div> 
+               <div className="col-4 text-center"><a href="/mail"><img src="img/maillogo.jpg" alt="mail logo" width={40}/></a></div>
+               <div className="col-4 text-center"><a href="/whatsapp"><img src="img/whatsapplogo.jpg" alt="mail logo" width={40}/></a></div>
                
             </div>
             <div className="row">

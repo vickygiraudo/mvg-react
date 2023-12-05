@@ -3,7 +3,7 @@ import React from 'react'
 const Retratos = () => {
   return (
     <div>
-        <h3>Fotografías de Retrato</h3>
+        <h3 className='titulogalerias'>Fotografías de Retrato</h3>
     </div>
   )
 }

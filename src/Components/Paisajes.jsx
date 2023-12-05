@@ -3,7 +3,7 @@ import React from 'react'
 const Paisajes = () => {
   return (
     <div>
-        <h3>Fotografías de Paisajes </h3>
+        <h3 className='titulogalerias'>Fotografías de Paisajes </h3>
     </div>
   )
 }
