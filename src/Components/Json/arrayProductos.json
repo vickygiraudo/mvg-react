@@ -4,44 +4,58 @@
       "id": 1,
       "nombre": "Flamenco en Mar chiquita forma corazón",
       "precio": 20,
-      "img": "/assets/flacorazon.jpg ",
+      "img": "/img/flacorazon.jpg ",
       "categoria":  "fauna"
       
     },
     {
       "id": 2,
-      "nombre": "Flameco en Catamarca",
+      "nombre": "Flamenco en Catamarca",
       "precio": 39.99,
-      "img": "/assets/flacatasololindo.jpg",
+      "img": "/img/flacatasololindo.jpg",
       "categoria":  "fauna"
     },
     {
         "id": 3,
         "nombre": "Árboles salados Mar Chiquita ",
         "precio": 39.99,
-        "img": "/assets/marchiquita.jpg",
+        "img": "/img/marchiquita.jpg",
         "categoria":  "paisajes"
       },
       {
         "id": 4,
-        "nombre": "Paisaje Catamarca ruta de los Seismiles",
+        "nombre": "Campo de tulipanes en Virginia, Estados Unidos",
         "precio": 39.99,
-        "img": "/assets/llamaypaisaje.jpg",
+        "img": "/img/floresvirginia.jpg",
         "categoria":  "paisajes"
       },
       {
         "id": 5,
         "nombre": "Madre e hijo España",
         "precio": 39.99,
-        "img": "/assets/retratomadreehijo.jpg",
+        "img": "/img/retratomadreehijo.jpg",
         "categoria":  "retratos"
       },
       {
         "id": 6,
         "nombre": "Mirada",
         "precio": 39.99,
-        "img": "/assets/miradakandy.JPG",
+        "img": "/img/miradakandi.JPG",
         "categoria":  "retratos"
+      }, 
+      {
+        "id": 7,
+        "nombre": "Montañas Mount Rainier - Seattle ",
+        "precio": 39.99,
+        "img": "/img/paisajeseattle.jpg",
+        "categoria":  "paisajes"
+      },
+      {
+        "id": 8,
+        "nombre": "Casamiento en NYC puente Brooklyn",
+        "precio": 39.99,
+        "img": "/img/casamientonyc.JPG",
+        "categoria":  "paisajes"
       }
     
   ]

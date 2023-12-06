@@ -2,6 +2,7 @@
 import './App.css'
 import {BrowserRouter, Routes, Route} from 'react-router-dom'
 import Navbar from './Components/Navbar/Navbar'
+import Portada from './Components/Portada'
 import ItemListContainer from './Components/ItemListContainer/ItemListContainer'
 import Footer from './Footer'
 import Error from './Components/Error'
@@ -13,6 +14,7 @@ function App() {
     <> 
       <BrowserRouter> 
        <Navbar/>
+       <Portada/>
 
        <Routes>
          <Route path= '/' element= {<ItemListContainer greeting={`Bienvenidos a MVG Fotografía`} />} />

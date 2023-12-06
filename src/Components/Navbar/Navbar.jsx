@@ -29,7 +29,7 @@ const Navbar = () => {
           
                 </div>
                 <div className="d-flex align-items-center text-">
-                  <a to="/cart"> <CartWidget/> </a>
+                  <a href="/cart"> <CartWidget/> </a>
                 </div>
 
             </div>
@@ -47,6 +47,7 @@ const Navbar = () => {
             
 
       </div>
+      
     </div>
 
     
