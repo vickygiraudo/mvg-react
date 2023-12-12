@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "nombre": "Flamenco en Catamarca",
+      "nombre": "Flamenco solitario en Catamarca",
       "precio": 39.99,
       "img": "/img/flacatasololindo.jpg",
       "categoria":  "fauna"
@@ -31,14 +31,14 @@
       },
       {
         "id": 5,
-        "nombre": "Madre e hijo España",
+        "nombre": "Madre e hijo en Toledo, España",
         "precio": 39.99,
         "img": "/img/retratomadreehijo.jpg",
         "categoria":  "retratos"
       },
       {
         "id": 6,
-        "nombre": "Mirada",
+        "nombre": "Mirada de modelo centro Kandinsky",
         "precio": 39.99,
         "img": "/img/miradakandi.JPG",
         "categoria":  "retratos"
